@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "brand": "walmart",
+    "name": "teste",
+    "discount": "12.45",
+    "price": "123.00",
+    "image": "https://tokstok.vtexassets.com/arquivos/ids/3107296/cadeira-am-ndoa-texas_st0.jpg?v=637732745332670000"
+  },
+  {
+    "id": "2",
+    "brand": "walmart",
+    "name": "teste",
+    "discount": "12.45",
+    "price": "123.00",
+    "image": "https://tokstok.vtexassets.com/arquivos/ids/3107296/cadeira-am-ndoa-texas_st0.jpg?v=637732745332670000"
+  },
+  {
+    "id": "3",
+    "brand": "walmart",
+    "name": "teste",
+    "discount": "12.45",
+    "price": "123.00",
+    "image": "https://tokstok.vtexassets.com/arquivos/ids/3107296/cadeira-am-ndoa-texas_st0.jpg?v=637732745332670000"
+  }
+]
